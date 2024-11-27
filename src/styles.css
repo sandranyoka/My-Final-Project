@@ -8,5 +8,13 @@ body{
     max-width: 600px;
     margin: 30px auto;
     padding:30px;
+    border-radius: 15px;
+}
+.search-form-input{
+    background-color: white;
+    border:none;
+    border-radius: 5px;
+    width: 80%;
+
 }
 

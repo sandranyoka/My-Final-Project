@@ -19,11 +19,13 @@ body{
     font-size: 15px;
 
 }
-.search-form-buton{
-    background-color: white;
-    padding:15px 20px;
-    border:none;
+.search-form-button {
     margin-left: 5px;
+    font-size: 16px;
+    color: white;
+    border: none;
+    padding: 20px;
+    line-height: 1px;
     border-radius: 5px;
     
 }

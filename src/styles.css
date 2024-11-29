@@ -52,13 +52,13 @@ main{
     justify-content: space-between;
 }
 .weather-app-icon{
-    font-size: 42px;
+    font-size: 80px;
     margin-top: 20px;
     margin-left: 10px;
 
 }
 .weather-app-unit{
-    margin-top:20px;
+    margin-top:12px;
     font-size: 28px;
 }
 .weather-app-temperature-container{

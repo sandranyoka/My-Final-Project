@@ -62,7 +62,7 @@ main{
     font-size: 28px;
 }
 .weather-app-temperature-container{
-    display:inline-block;
+    display:inline-flex;
 }
 .weather-app-temperature{
     font-size: 80px;

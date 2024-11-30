@@ -59,6 +59,8 @@ main{
 }
 .weather-app-unit{
     font-size: 28px;
+        position: relative;
+        top: -38px;
 }
 .weather-app-temperature-container{
     display:inline-flex;

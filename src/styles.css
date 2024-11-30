@@ -63,11 +63,12 @@ main{
         top: -38px;
 }
 .weather-app-temperature-container{
-    display:inline-flex;
+    display:inline-block;
+    gap:10px;
 }
 .weather-app-temperature{
-    font-size: 80px;
-    font-weight: bold;
+    font-size: 75px;
+    font-weight: normal;
     
 }
 footer{
